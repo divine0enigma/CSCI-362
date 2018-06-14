@@ -1,0 +1,8 @@
+Test Number 023
+rgb2HexDriver
+rgb2Hex()
+255 0 0
+Hex Value = #FF0000
+Requirement: Convert an RGB color object to its equivalent Hexadecimal Value
+
+http://www.rgbtohex.net/

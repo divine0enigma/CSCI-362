@@ -1,0 +1,8 @@
+Test Number 014
+getSaturationDriver
+getSaturation()
+B 0 0
+Exception: java.lang.NumberFormatException: For input string: "B"
+Requirement: Determine saturation of an RGB color object. Handle invalid input exceptions.
+
+http://www.workwithcolor.com/color-converter-01.htm

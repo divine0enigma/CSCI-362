@@ -1,0 +1,8 @@
+Test Number 010
+getSaturationDriver
+getSaturation()
+255 255 255
+Saturation = 0.000
+Requirement: Determine saturation of an RGB color object. Handle invalid input exceptions.
+
+http://www.workwithcolor.com/color-converter-01.htm

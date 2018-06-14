@@ -1,0 +1,7 @@
+Test Number 005
+contrastCheckerDriver
+getContrastRatio()
+256 0 0 0 0 0
+Exception: java.lang.IllegalArgumentException: Color parameter outside of expected range: Red
+Requirement: Given two color objects, return the contrast between them. Handle invalid input exceptions
+

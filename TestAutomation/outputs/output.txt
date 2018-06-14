@@ -1,0 +1,1 @@
+Hex Value = #0000FF

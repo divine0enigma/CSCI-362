@@ -1,0 +1,8 @@
+Test Number 017
+getLuminosityDriver
+getLuminosity()
+255 255 255
+Luminosity = 1.000
+Requirement: Determine an RGB color objects Luminosity.
+
+http://springmeier.org/www/contrastcalculator/index.php

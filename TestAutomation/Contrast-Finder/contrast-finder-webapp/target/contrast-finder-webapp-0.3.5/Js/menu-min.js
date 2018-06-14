@@ -1,0 +1,1 @@
+(function(a){a(function(){var d=a("#menu"),c=a("#toggle"),b=false;c.on("click",function(){b=!b;c.attr("aria-expanded",b);if(b){d.addClass("is-opened")}else{d.removeClass("is-opened")}})})})(jQuery);

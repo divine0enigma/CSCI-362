@@ -1,0 +1,24 @@
+TEST CASE FILES
+4Banger CSCI 362
+
+THIS DOCUMENT SERVES AS THE TEMPLATE FOR ALL TEST FILES
+
+Test Template
+1. Test number 
+2. Class being tested
+3. Method being tested
+4. test input(s) to be given to the driver
+5. expected outcome(s) 
+6. Requirement being tested
+
+8. Source where expected output was verified
+
+
+
+// TESTS 0 - 9 tests getContrastRatio() method
+
+// TESTS 10 - 14 tests getSaturation() method
+
+// TESTS 15	- 19 tests getLuminosity() method
+
+// TESTS 20 - 25 tests rgb2Hex() Method

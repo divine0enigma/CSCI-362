@@ -1,0 +1,6 @@
+Test Number 002
+contrastCheckerDriver
+getContrastRatio()
+A 0 0 0 0 0
+Exception: java.lang.NumberFormatException: For input string: "A"
+Requirement: Given two color objects, return the contrast between them. Handle invalid input exceptions

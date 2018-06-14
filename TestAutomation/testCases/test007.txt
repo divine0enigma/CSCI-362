@@ -1,0 +1,8 @@
+Test Number 007
+contrastCheckerDriver
+getContrastRatio()
+255 255 255 255 255 254
+Ratio = 1.000
+Requirement: Given two color objects, return the contrast between them. Handle invalid input exceptions
+
+https://webaim.org/resources/contrastchecker/
